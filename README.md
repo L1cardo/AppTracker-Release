@@ -1,3 +1,15 @@
+---
+title: App Tracker
+top: true
+categories:
+  - App
+tags:
+  - App Tracker
+  - iOS
+date: 2020-06-08 00:00:00
+cover: https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/compose_music_ovo2.svg
+---
+
 # App Tracker for iOS
 
 [Open in AltStore](altstore://install?url=https://github.com/L1cardo/AppTracker-Release/releases/download/v1.0.0/App.Tracker.ipa)
@@ -17,7 +29,7 @@
 11. Trust AltStore.
 12. Tap the "Open in AltStore" button located above.
 13. AltStore will now install the app. Wait until it finishes.
-14. Open unc0ver and jail​break!
+14. Open App Tracker and enjoy!
 
 ### Windows
 
@@ -36,7 +48,7 @@
 11. Tap the "Open in AltStore" button located above.
 12. If promoted, sign into the same Apple ID you used before.
 13. AltStore will now install the app. Wait until it finishes.
-14. Open unc0ver and jail​break!
+14. Open App Tracker and enjoy!
 
 # App Tracker for macOS
 
@@ -50,6 +62,5 @@
 - Direct Install
   
     [Releases · L1cardo/AppTracker-Release · GitHub](https://github.com/L1cardo/AppTracker-Release/releases)
-
 
 
