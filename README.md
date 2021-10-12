@@ -44,7 +44,7 @@
 
     ```bash
     brew tap bigwig-club/brew
-    brew cask install bigwig-club/brew/app-tracker
+    brew install bigwig-club/brew/app-tracker --cask
     ```
 
 - Direct Install
