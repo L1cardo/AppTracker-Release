@@ -1,6 +1,6 @@
 # App Tracker for iOS
 
-[Open in AltStore](altstore://install?url=https://github.com/L1cardo/AppTracker-Release/releases/download/v1.0.0/App.Tracker.ipa)
+[Open in AltStore](altstore://install?url=https://github.com/L1cardo/AppTracker-Release/releases/download/v1.0.0/App_Tracker.ipa)
 
 ### macOS
 
